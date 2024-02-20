@@ -6,17 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaiiikh" alt="shaiiikh" /></a> </p>
 
-- 🔭 I’m currently working on **University Management System**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shaiiikh](https://github.com/shaiiikh)
-
-- 💬 Ask me about **Android Mern**
-
-- 📫 How to reach me **m7alishaikhx@gmail.com**
-
-- ⚡ Fun fact **Passionate developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
