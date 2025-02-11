@@ -12,11 +12,6 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Machine_learning.svg" alt="Machine Learning" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Data_science" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Data_science_disciplines.png" alt="Data Science" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
@@ -29,8 +24,6 @@
 <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="40" height="40"/> </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/> </a>
 <a href="https://ngrok.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17163400?s=200&v=4" alt="Ngrok" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Natural_Language_Processing.jpg" alt="NLP" width="40" height="40"/> </a>
-<a href="https://openai.com/dall-e" target="_blank" rel="noreferrer"> <img src="https://openai.com/content/images/2022/11/openai-dall-e.png" alt="DALL-E" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </a>
 <a href="https://sonarcloud.io/" target="_blank" rel="noreferrer"> <img src="https://sonarcloud.io/images/logo.svg" alt="SonarCloud" width="40" height="40"/> </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/v1538361091/repositories/vercel.svg" alt="Vercel" width="40" height="40"/> </a>
